@@ -14,7 +14,7 @@ Permite gestionar:
 
 ## 🖥️ Interfaz Principal
 
-![Main](SAPython/assets/main.png)
+![Main](assets/main.png)
 
 ---
 
