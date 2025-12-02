@@ -137,5 +137,5 @@ MIT License © 2025 Luis Paolo Marcial Sánchez
 👤 Autor
 
 Luis Paolo Marcial Sánchez
-Desarrollador Python · Analista de Datos · Automatización
+Desarrollador Python · Científico de Datos · Analista de Datos · Automatización
 GitHub: https://github.com/paulomarc49
