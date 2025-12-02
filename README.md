@@ -77,6 +77,7 @@ Permite gestionar:
 
 # 🧱 Arquitectura del Proyecto
 
+```
 Tkinter GUI
 ├── main.py
 ├── plan_mantenimiento.py
@@ -92,7 +93,7 @@ Datos
 ├── *.xlsx (archivos de equipos)
 ├── *.db (bases SQLite)
 ├── plantilla.tex (plantilla LaTeX)
-
+```
 
 ---
 
