@@ -120,12 +120,15 @@ cd sapython
 
 2. Instalar dependencias:
 
+```
 pip install pandas pillow
-
+```
 
 3. Ejecutar:
 
+```
 python main.py
+```
 
 📄 Licencia
 
