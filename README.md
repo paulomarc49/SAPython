@@ -116,6 +116,7 @@ Datos
 ```bash
 git clone https://github.com/paulomarc49/sapython.git
 cd sapython
+bash```
 
 2. Instalar dependencias:
 
