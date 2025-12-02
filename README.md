@@ -14,7 +14,7 @@ Permite gestionar:
 
 ## 🖥️ Interfaz Principal
 
-<img src="assets/main.png" width="500">
+<img src="assets/main.png" width="300">
 
 ---
 
