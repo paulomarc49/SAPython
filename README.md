@@ -60,7 +60,7 @@ Permite gestionar:
 
 **Vista del generador de informes:**
 
-![Generador LaTeX](assets/generador_informe.png)
+<img src="assets/generador_informe.png" width="400">
 
 ---
 
