@@ -45,6 +45,7 @@ SAPhyton es una aplicación de escritorio desarrollada en Python que funciona co
 **Vista del plan guardado:**
 
 <img src="assets/cumplimiento.png" width="600">
+
 ---
 
 ## 1.4. Generación de Informe LaTeX
