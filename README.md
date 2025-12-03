@@ -64,7 +64,9 @@ Se carga una plantilla en LaTex con el formato del documento y en la sección de
 
 <img src="assets/generador_informe.png" width="500">
 
-<img src="assets/ejemplo_informe.png" width="500">
+**Ejemplo compilado utilizando Overleaf:**
+
+<img src="assets/ejemplo_informe.png" width="1000">
 
 ---
 
