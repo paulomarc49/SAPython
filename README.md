@@ -73,6 +73,21 @@ Permite gestionar:
 - Programa mensual  
 - Vistas filtradas detalladas  
 
+**Vista de la ventana de resumenes e insights:**
+
+<img src="assets/insights.png" width="500">
+
+<img src="assets/ver_proximos.png" width="500">
+
+## ✔ 5. Acerca de
+
+- Se detallan los créditos  
+
+**Vista de la ventana acerca de:**
+
+<img src="assets/acerca_de.png" width="500">
+
+
 ---
 
 # 🧱 Arquitectura del Proyecto
