@@ -1,4 +1,4 @@
-# 🛠 SAPhyton — Sistema de Mantenimiento Preventivo en Python
+# SAPhyton — Sistema de Mantenimiento Preventivo en Python
 
 SAPhyton es una aplicación de escritorio desarrollada en Python que funciona como un **CMMS liviano** (similar a SAP PM).  
 Permite gestionar:
@@ -12,15 +12,15 @@ Permite gestionar:
 
 ---
 
-## 🖥️ Interfaz Principal
+# 1. Características principales
+
+## 1.1. Interfaz Principal
 
 <img src="assets/main.png" width="300">
 
 ---
 
-# 📦 Características principales
-
-## ✔ 1. Plan de Mantenimiento Preventivo
+## 1.2. Plan de Mantenimiento Preventivo
 
 - Importación de base de equipos desde Excel  
 - Normalización automática de columnas  
@@ -36,7 +36,7 @@ Permite gestionar:
 
 ---
 
-## ✔ 2. Gestión de Cumplimiento
+## 1.3. Gestión de Cumplimiento
 
 - Lectura del plan desde la BD SQLite  
 - Marcar mantenimientos realizados  
@@ -48,7 +48,7 @@ Permite gestionar:
 <img src="assets/cumplimiento.png" width="600">
 ---
 
-## ✔ 3. Generación de Informe LaTeX
+## 1.4. Generación de Informe LaTeX
 
 - Inserta tablas dinámicas en LaTeX  
 - Agrupación por ubicación  
@@ -64,7 +64,7 @@ Permite gestionar:
 
 ---
 
-## ✔ 4. Resumen e Insights
+## 1.5. Resumen e Insights
 
 - Totales de equipos  
 - Porcentaje de cumplimiento  
@@ -79,7 +79,7 @@ Permite gestionar:
 
 <img src="assets/ver_proximos.png" width="500">
 
-## ✔ 5. Acerca de
+## 1.6. Acerca de
 
 - Se detallan los créditos  
 
@@ -87,10 +87,9 @@ Permite gestionar:
 
 <img src="assets/acerca_de.png" width="500">
 
-
 ---
 
-# 🧱 Arquitectura del Proyecto
+# 2. Arquitectura del Proyecto
 
 ```
 Tkinter GUI
@@ -112,7 +111,7 @@ Datos
 
 ---
 
-# 🛠 Tecnologías utilizadas
+# 3. Tecnologías utilizadas
 
 - **Python 3**  
 - **Tkinter** — interfaz gráfica  
@@ -124,32 +123,32 @@ Datos
 
 ---
 
-# ▶️ Cómo ejecutar la aplicación
+# 4. Cómo ejecutar la aplicación
 
-1. Clonar el repositorio:
+## 4.1. Clonar el repositorio:
 
 ```
 git clone https://github.com/paulomarc49/sapython.git
 cd sapython
 ```
 
-2. Instalar dependencias:
+## 4.2. Instalar dependencias:
 
 ```
 pip install pandas pillow
 ```
 
-3. Ejecutar:
+## 4.3. Ejecutar:
 
 ```
 python main.py
 ```
 
-📄 Licencia
+# 5. Licencia
 
 MIT License © 2025 Luis Paolo Marcial Sánchez
 
-👤 Autor
+# 6. Autor
 
 Luis Paolo Marcial Sánchez
 Desarrollador Python · Científico de Datos · Analista de Datos · Automatización
