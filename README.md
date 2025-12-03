@@ -79,6 +79,8 @@ SAPhyton es una aplicación de escritorio desarrollada en Python que funciona co
 
 <img src="assets/ver_proximos.png" width="500">
 
+---
+
 ## 1.6. Acerca de
 
 - Detalle de los créditos  
