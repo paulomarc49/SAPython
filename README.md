@@ -31,8 +31,8 @@ Permite gestionar:
 
 **Vista del módulo:**
 
-<img src="assets/plan_mantenimiento.png" width="900">
-<img src="assets/plan_guardado.png" width="900">
+<img src="assets/plan_mantenimiento.png" width="1000">
+<img src="assets/plan_guardado.png" width="1000">
 
 ---
 
@@ -45,7 +45,7 @@ Permite gestionar:
 
 **Vista del plan guardado:**
 
-<img src="assets/cumplimiento.png" width="900">
+<img src="assets/cumplimiento.png" width="600">
 ---
 
 ## ✔ 3. Generación de Informe LaTeX
@@ -60,7 +60,7 @@ Permite gestionar:
 
 **Vista del generador de informes:**
 
-<img src="assets/generador_informe.png" width="400">
+<img src="assets/generador_informe.png" width="500">
 
 ---
 
