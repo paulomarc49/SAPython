@@ -93,7 +93,7 @@ Se carga una plantilla en LaTex con el formato del documento y en la sección de
 
 **Vista de la ventana acerca de:**
 
-<img src="assets/acerca_de.png" width="500">
+<img src="assets/acerca_de.png" width="300">
 
 ---
 
