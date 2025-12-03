@@ -31,8 +31,8 @@ Permite gestionar:
 
 **Vista del módulo:**
 
-<img src="assets/plan_mantenimiento.png" width="400">
-<img src="assets/plan_guardado.png" width="400">
+<img src="assets/plan_mantenimiento.png" width="700">
+<img src="assets/plan_guardado.png" width="700">
 
 ---
 
@@ -45,7 +45,7 @@ Permite gestionar:
 
 **Vista del plan guardado:**
 
-![Plan Guardado](assets/plan_guardado.png)
+![Plan Guardado](assets/cumplimiento.png)
 
 ---
 
