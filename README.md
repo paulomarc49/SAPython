@@ -1,7 +1,6 @@
-# SAPhyton — Sistema de Mantenimiento Preventivo en Python
+# SAPhyton — Sistema de Asistencia para Mantenimiento Preventivo en Python
 
-SAPhyton es una aplicación de escritorio desarrollada en Python que funciona como un **CMMS liviano** (similar a SAP PM).  
-Permite gestionar:
+SAPhyton es una aplicación de escritorio desarrollada en Python que funciona como un **CMMS liviano** (similar a SAP PM) que permite gestionar:
 
 - Planes de mantenimiento preventivo  
 - Registro de cumplimiento  
