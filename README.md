@@ -50,6 +50,8 @@ SAPhyton es una aplicación de escritorio desarrollada en Python que funciona co
 
 ## 1.4. Generación de Informe LaTeX
 
+Se carga una plantilla en LaTex con el formato del documento y en la sección de anexos se genera la información del plan de mantenimiento guardado en la base de datos de manera automática, el presente formato está optimizado para compilarse utilizando pdfLaTex con la ayuda de Overleaf:
+
 - Inserta tablas dinámicas en LaTeX  
 - Agrupación por ubicación  
 - Uso de `\multirow`, tablas limpias y etiquetas  
@@ -61,6 +63,8 @@ SAPhyton es una aplicación de escritorio desarrollada en Python que funciona co
 **Vista del generador de informes:**
 
 <img src="assets/generador_informe.png" width="500">
+
+<img src="assets/ejemplo_informe.png" width="500">
 
 ---
 
